@@ -7,8 +7,11 @@
         <title>Syntax dasar php - deli</title>
     </head>
     <body>
+        <h1>
         <?php
-            echo"Hello world";
-            <?php
+            echo "<a herf='#'>Hello world</a>";
+            echo "<br> Tulisan ke dua";
+        ?>
+        </h1>
     </body>
     </html>
